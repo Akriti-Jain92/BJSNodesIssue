@@ -1,0 +1,1 @@
+C:\repo\Personal\SFTestNodes\SFTestNodes\obj\x64\Debug\SFTestNodes.sfproj.CoreCompileInputs.cache
